@@ -1,0 +1,71 @@
+git clone git@github.com.Madeeha-55/firt-project.git
+    2  git install
+    3  sudo apt git install
+    4  sudo apt get  git install
+    5  sudo apt -get install git
+    6  sudo apt-get install git
+    7  git config --global user.name "Madeeha-55"
+    8  git config --global user.email "Madeehakhan663@gmail.com"
+    9  git clone git@github.com.Madeeha-55/firt-project.git
+   10* 
+   11  git clone git@github.com.Madeeha-55/firt-project.git
+   12  git clone git@github.com:Madeeha-55/firt-project.git
+   13  ls
+   14  git clone git@github.com:Madeeha-55/firt-project.git
+   15  git remote show origin
+   16  git push -u origin master
+   17  git clone git@github.com:Madeeha-55/New.git
+   18  git pull
+   19  git clone git@github.com:Madeeha-55/New.git
+   20  ls -a
+   21  git remote -v
+   22  ssh -keygen
+   23  ssh-keygen
+   24  ssh-keygen -t ed25519
+   25  cat /home/madeeha/.ssh/id_ed25519.pub
+   26  ssh -T git@github.com
+   27  git clone git@github.com:Madeeha-55/fisrt-project.git
+   28  git clone git@github.com:Madeeha-55/first-project.git
+   29  ls
+   30  cd first-project/
+   31  nano missed.txt
+   32  git add missed.txt 
+   33  git commit -m "lol"
+   34  git push -u origin
+   35  nano jj.txt
+   36  git add jj.txt 
+   37  git commit -m "hello"
+   38  git push -u origin
+   39  git pull
+   40  git push -u origin
+   41  ls
+   42  nano mis.txt
+   43  git add mis.txt 
+   44  git commit -m "gg"
+   45  git push -u origin
+   46  nano ll.txt
+   47  git add ll.txt 
+   48  git commit -m "uu"
+   49  git push -u origin
+   50  nano nn.txt
+   51  git add nn.txt 
+   52  git commit -m "kk"
+   53  git push -u origin
+   54  git pull
+   55  git push -u origin
+   56  git branch
+   57  git checkout -b branch_1
+   58  git branch
+   59  nano new.txt
+   60  add new.txt 
+   61  git commit -m "this is new branch"
+   62  git add new.txt 
+   63  git commit -m "this is new branch"
+   64  git push -u origin
+   65  git push --set-upstream origin branch_1 
+   66  nano new.txt
+   67  git status
+   68  git add new.txt 
+   69  git commit -m "hello"
+   70  git push -u origin
+   71  history
