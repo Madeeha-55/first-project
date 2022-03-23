@@ -13,4 +13,8 @@ todays date is 24
 =======
 todat date 23
 >>>>>>> 1ea7552a7609882554f278296ee4aafd5e327c09
+<<<<<<< HEAD
 day 2 
+=======
+day 1
+>>>>>>> 3657f53d712c513c94b4bb7297591c208d8064ef
